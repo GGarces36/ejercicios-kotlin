@@ -1,2 +1,2 @@
 # ejercicios-kotlin
-ejercicios taller de nuevas tecnologias kotlin
+ejercicios taller de nuevas tecnologias kotlin.
